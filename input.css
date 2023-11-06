@@ -1,0 +1,7 @@
+.gola-image:hover {
+    background-color: lightskyblue;
+}
+
+.card:hover {
+    box-shadow: 1px 1px 15px rgba(80,80,80, 0.1);
+}
